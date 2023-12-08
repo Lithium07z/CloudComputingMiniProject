@@ -1,4 +1,4 @@
-# CloudComputingMiniProject
+# Cloud Computing Mini Project
 <hr>
 2023년 3학년 2학기 클라우드 컴퓨팅 미니 프로젝트<br>
 CI/CD와 유니티 클라이언트 중 유니티 프로젝트<br><br>
